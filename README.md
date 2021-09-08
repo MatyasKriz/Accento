@@ -9,6 +9,8 @@
 
 Acčento is an easy-to-use tool for adding Czech diacritics to copied text. The app lives in the menu bar and is activated using a global hot key.
 
+Activating the global hot key (or using the menu bar option "Acčento!"), **your current clipboard** is sent to Lingea to add diacritics. The result is analyzed, cleaned up, and **written back into your clipboard**. It should have nearly the same structure as the copied text. The notification tells you when the diacriticization is done and also how many words were uncertain.
+
 The app also contains preferences allowing you to customize the hot key as well as other quality of life features.
 
 Props to [<img style="height: 24px" src="./img/Lingea-logo.png">](https://www.nechybujte.cz/nastroje) for providing the incredible diacritics service.
