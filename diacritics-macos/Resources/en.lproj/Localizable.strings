@@ -1,0 +1,12 @@
+"Menu.Diacriticize" = "Acčento!";
+"Menu.Preferences" = "Preferences";
+"Menu.Quit" = "Quit";
+
+"Notification.Title" = "Acčento!";
+"Notification.Subtitle.Uncertainties" = " %@ uncertain words.";
+"Notification.Subtitle.Base" = "Accenting complete.%@";
+
+"Preferences.HotKey" = "Hot key";
+"Preferences.Notification" = "Show notification";
+"Preferences.LaunchAtLogin" = "Launch at login";
+"Preferences.PoweredBy" = "powered by";

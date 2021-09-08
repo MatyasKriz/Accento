@@ -1,0 +1,12 @@
+"Menu.Diacriticize" = "Acčento!";
+"Menu.Preferences" = "Nastavení";
+"Menu.Quit" = "Zavřít";
+
+"Notification.Title" = "Acčento!";
+"Notification.Subtitle.Uncertainties" = " %@ nejasných slov.";
+"Notification.Subtitle.Base" = "Diakritizace dokončena.%@";
+
+"Preferences.HotKey" = "Klávesová zkratka";
+"Preferences.Notification" = "Zobrazit notifikaci";
+"Preferences.LaunchAtLogin" = "Spustit po přihlášení";
+"Preferences.PoweredBy" = "umožněno díky";
